@@ -1,0 +1,4 @@
+# tu
+```blocks
+basic.showString(":)")
+```
